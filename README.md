@@ -3,7 +3,7 @@
 Bu proje GobalAlHub'ın Görüntü işleme Bootcamp'i için hazırlanmıştır. 
 
 Veri seti Kaggle platformundan elde edilmiştir. [Link](https://www.kaggle.com/datasets/rrebirrth/animals-with-attributes-2)
-
+Kaggle Notebook Linki : [Link](https://www.kaggle.com/code/tugceerdemlial/animalimageprocessingcnnmodel)
 ## Proje'nin Amacı
 
 Bu projenin amacı, Convolutional Neural Network (CNN) modelini kullanarak görüntüleri 10 hayvan sınıfına sınıflandırmaktır. 
